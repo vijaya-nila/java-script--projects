@@ -1,0 +1,12 @@
+function intialize()
+{
+    var input = document.getElementById("input");
+    var button = document.getElementById("button");
+    if(input!=="")
+    {
+        var ul = document.getElementById("listitem");
+        var li = document.createElement("li");
+     var span=document.createElement("span");
+     span textContent=input: .value;
+    }
+}
