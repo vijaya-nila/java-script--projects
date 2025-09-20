@@ -6,6 +6,7 @@ This repository contains small but useful **JavaScript projects** to practice an
           1. **BMI Calculator** 
           2. **Interest Calculator**  
           3. **To-Do List**  
+          4. **cm to  inches convert calculator"
 
 
 ##  Technologies Used
